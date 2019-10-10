@@ -73,7 +73,6 @@ cout << "Iniciar" << endl;
 cout << "Nivel 2" << endl;
 system("pause");
 nivel(5);
-return 0;
 
 system("cls");
 cout << "Iniciar" << endl;
