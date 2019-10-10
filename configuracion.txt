@@ -1,0 +1,6 @@
+ir a codeblocks
+-settings
+-compiler
+-linker settings
+-add
+agregar  la libreria winmm y listo
